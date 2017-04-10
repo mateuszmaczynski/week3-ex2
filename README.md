@@ -1,2 +1,2 @@
 # week3-ex2
-Rozwiązanie problemu z kontekstem dla funkcji
+Solving the problem with the context for the function
